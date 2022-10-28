@@ -7,4 +7,6 @@ Severely toxic
 Obscene
 Threat
 Insult 
-Identity hate
+Identity hate.
+
+I use Three Models SDG Regressor, Decision Tree and LSTM.
