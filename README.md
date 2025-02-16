@@ -44,6 +44,9 @@ SDG Regressor was useful for weighted classification but struggled with highly i
 
 ## 🎯 Future Work
 Implement ensemble learning to combine the strengths of multiple models;
+
 Fine-tune hyperparameters for improved accuracy;
+
 Experiment with transformer-based models like BERT for better text comprehension;
+
 Implement ensemble learning to combine the strengths of multiple models.
